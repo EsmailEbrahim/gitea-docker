@@ -7,9 +7,14 @@
 ├── docker-compose.yml
 ├── folder_structure.txt
 ├── gitea
-    └──
+    └── (auto-created by Docker)
 ├── postgres
-    └──
+    └── (auto-created by Docker)
+├── scripts
+│   ├── backup-gitea.sh
+│   ├── install-gitea.sh
+│   ├── restore-gitea.sh
+│   └── update-gitea.sh
 └── ssl
     ├── gitea.crt
     └── gitea.key
