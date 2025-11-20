@@ -1,0 +1,15 @@
+.
+├── .env
+├── .env.example
+├── .gitignore
+├── README.md
+├── backup.sh
+├── docker-compose.yml
+├── folder_structure.txt
+├── gitea
+    └──
+├── postgres
+    └──
+└── ssl
+    ├── gitea.crt
+    └── gitea.key
